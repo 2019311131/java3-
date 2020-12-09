@@ -226,5 +226,6 @@ class Java3 {
 每月工资：1185.0
 每年应纳税为：924.0
 ![image](https://github.com/2019311131/java3-/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20201209215721.png)
+![image](https://github.com/2019311131/java3-/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20201209215751.png)
 #       实验感想
 实验很成功 感觉非常好 再接再厉 继续努力 做大做强
